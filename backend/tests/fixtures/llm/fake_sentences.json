@@ -1,0 +1,293 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Many students think that reading English means looking up every new word.",
+      "translation": "很多学生认为，读英语就是把每个生词都查一遍。",
+      "structure_hint": "主句 + that 宾语从句",
+      "difficulty": 2,
+      "key_vocab": [
+        {
+          "surface": "means",
+          "lemma": "mean",
+          "pos": "v.",
+          "sense_cn": "意味着",
+          "collocations": ["mean doing sth", "mean to do sth"],
+          "pitfall_cn": "mean to do 是“打算做”，mean doing 才是“意味着”，考试就考这个区别",
+          "exam_hint": "中考单选与语法填空高频辨析点",
+          "syllabus_guess": "zhongkao"
+        },
+        {
+          "surface": "looking up",
+          "lemma": "look up",
+          "pos": "v.",
+          "sense_cn": "查阅",
+          "collocations": ["look up a word"],
+          "pitfall_cn": "宾语是代词时要放中间：look it up，不能说 look up it",
+          "exam_hint": "动词短语，完形填空常考",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "名词性从句",
+          "span": "that reading English means looking up every new word",
+          "explain_cn": "that 引导宾语从句，that 本身不作成分，只起连接作用",
+          "exam_tip": "宾语从句必须用陈述语序，不能写成 question 语序"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "In fact, the harder problem is often the shape of the text.",
+      "translation": "事实上，更难的问题往往是文章的“形状”，也就是它的结构。",
+      "structure_hint": "介词短语作状语 + 主系表",
+      "difficulty": 2,
+      "key_vocab": [
+        {
+          "surface": "shape",
+          "lemma": "shape",
+          "pos": "n.",
+          "sense_cn": "结构；框架（比喻义，不是“形状”）",
+          "collocations": ["the shape of the text"],
+          "pitfall_cn": "按字面理解成“形状”就读不通了，这里指文章怎么组织",
+          "exam_hint": "熟词僻义，中考阅读常靠上下文判断",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "比较结构",
+          "span": "the harder problem",
+          "explain_cn": "harder 是 hard 的比较级，修饰 problem；前面加 the 表示“两者中更…的那个”",
+          "exam_tip": "比较级前有 the 时，多表示特指“更…的那一个”"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "If you cannot see how the writer builds an argument, every sentence feels equally important.",
+      "translation": "如果你看不出作者是怎样搭建论证的，就会觉得每一句都同样重要。",
+      "structure_hint": "if 条件状语从句 + 主句",
+      "difficulty": 4,
+      "key_vocab": [
+        {
+          "surface": "builds",
+          "lemma": "build",
+          "pos": "v.",
+          "sense_cn": "搭建；构建（论证、关系等抽象事物）",
+          "collocations": ["build an argument", "build a relationship"],
+          "pitfall_cn": "不是“建房子”，这里搭配的是抽象名词 argument",
+          "exam_hint": "抽象名词搭配是阅读题的高频障碍",
+          "syllabus_guess": "zhongkao"
+        },
+        {
+          "surface": "argument",
+          "lemma": "argument",
+          "pos": "n.",
+          "sense_cn": "论证；论点（不是“争吵”）",
+          "collocations": ["build an argument", "support an argument"],
+          "pitfall_cn": "阅读题问 the author's argument，问的是“作者的观点”，不是“吵架”",
+          "exam_hint": "主旨题关键词",
+          "syllabus_guess": "gaokao"
+        },
+        {
+          "surface": "equally",
+          "lemma": "equally",
+          "pos": "adv.",
+          "sense_cn": "同样地；平等地",
+          "collocations": ["equally important"],
+          "exam_hint": "副词修饰形容词，语法填空常考词性转换",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "状语从句",
+          "span": "If you cannot see how the writer builds an argument",
+          "explain_cn": "if 引导条件状语从句；从句内部 how 又引导一个宾语从句作 see 的宾语",
+          "exam_tip": "条件状语从句常用一般现在时表示将来，即“主将从现”"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Take the word address as an example.",
+      "translation": "以 address 这个词为例。",
+      "structure_hint": "祈使句 + take … as …",
+      "difficulty": 2,
+      "key_vocab": [
+        {
+          "surface": "address",
+          "lemma": "address",
+          "pos": "n.",
+          "sense_cn": "此处只是把 address 当作被讨论的词，不是“地址”也不是“处理”",
+          "collocations": ["take sth as an example"],
+          "pitfall_cn": "这一句里它既不是“地址”也不是“演讲”，要看它在句中的角色",
+          "exam_hint": "中考常考 address 的动词义“处理”",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "省略",
+          "span": "Take the word address as an example",
+          "explain_cn": "祈使句省略了主语 you，动词用原形",
+          "exam_tip": "语法填空中祈使句一律填动词原形"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "In one sentence it may mean to deal with a problem.",
+      "translation": "在某个句子里，它可能表示“处理一个问题”。",
+      "structure_hint": "主谓宾 + 不定式短语作宾语",
+      "difficulty": 2,
+      "key_vocab": [
+        {
+          "surface": "deal with",
+          "lemma": "deal with",
+          "pos": "v.",
+          "sense_cn": "处理；应对",
+          "collocations": ["deal with a problem", "how to deal with it"],
+          "pitfall_cn": "deal with 常与 how 连用，do with 常与 what 连用，这是经典考点",
+          "exam_hint": "中考单选高频辨析",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "情态动词",
+          "span": "may mean",
+          "explain_cn": "may 表示“可能”，后面必须接动词原形 mean",
+          "exam_tip": "情态动词后面永远用动词原形"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "In another it may mean a speech.",
+      "translation": "在另一个句子里，它可能表示“演讲”。",
+      "structure_hint": "主谓宾",
+      "difficulty": 2,
+      "key_vocab": [
+        {
+          "surface": "speech",
+          "lemma": "speech",
+          "pos": "n.",
+          "sense_cn": "演讲；致辞",
+          "collocations": ["give a speech", "opening speech"],
+          "pitfall_cn": "speech 是名词，动词是 speak，别混用",
+          "exam_hint": "give a speech 是固定搭配，写作也能用",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": []
+    },
+    {
+      "id": 7,
+      "text": "Students who remember only one meaning often misread a whole paragraph.",
+      "translation": "只记住一个意思的学生，常常会把整段都读错。",
+      "structure_hint": "主语 + 定语从句 + 谓语 + 宾语",
+      "difficulty": 3,
+      "key_vocab": [
+        {
+          "surface": "misread",
+          "lemma": "misread",
+          "pos": "v.",
+          "sense_cn": "读错；误解",
+          "collocations": ["misread a paragraph"],
+          "pitfall_cn": "mis- 表示“错误”，遇到不认识的词可以先拆前缀",
+          "exam_hint": "超纲词，了解即可，重点在猜词方法",
+          "syllabus_guess": "beyond"
+        },
+        {
+          "surface": "meaning",
+          "lemma": "meaning",
+          "pos": "n.",
+          "sense_cn": "意思；含义",
+          "collocations": ["the meaning of a word"],
+          "exam_hint": "mean 的名词形式，词性转换常考",
+          "syllabus_guess": "zhongkao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "定语从句",
+          "span": "who remember only one meaning",
+          "explain_cn": "who 引导定语从句修饰 Students，在从句中作主语",
+          "exam_tip": "先行词是人且从句缺主语时用 who，这是语法填空的高频点"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "A good reader always asks what the writer is trying to prove.",
+      "translation": "好的读者总会问：作者想证明什么。",
+      "structure_hint": "主谓宾 + what 宾语从句",
+      "difficulty": 3,
+      "key_vocab": [
+        {
+          "surface": "prove",
+          "lemma": "prove",
+          "pos": "v.",
+          "sense_cn": "证明",
+          "collocations": ["prove a point", "prove that …"],
+          "exam_hint": "try to do 表示“试图做”，与 try doing“试着做”不同",
+          "syllabus_guess": "gaokao"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "名词性从句",
+          "span": "what the writer is trying to prove",
+          "explain_cn": "what 引导宾语从句，同时在从句中作 prove 的宾语，不能换成 that",
+          "exam_tip": "从句缺宾语时用 what，不缺成分时用 that"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "That question keeps you from drowning in details.",
+      "translation": "这个问题能让你不至于淹没在细节里。",
+      "structure_hint": "keep sb from doing sth",
+      "difficulty": 3,
+      "key_vocab": [
+        {
+          "surface": "drowning",
+          "lemma": "drown",
+          "pos": "v.",
+          "sense_cn": "淹没；陷入（此处是比喻）",
+          "collocations": ["drown in details"],
+          "pitfall_cn": "drown 本义是溺水，这里指被细节淹没，属于比喻用法",
+          "exam_hint": "比喻义要靠上下文判断",
+          "syllabus_guess": "beyond"
+        }
+      ],
+      "grammar": [
+        {
+          "label": "非谓语-动名词",
+          "span": "drowning in details",
+          "explain_cn": "介词 from 后面接动名词，所以用 drowning 而不是 drown",
+          "exam_tip": "keep sb from doing / stop sb from doing 是固定结构"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Read the map before you walk through the forest.",
+      "translation": "走进森林之前，先看地图。",
+      "structure_hint": "祈使句 + before 时间状语从句",
+      "difficulty": 2,
+      "key_vocab": [],
+      "grammar": [
+        {
+          "label": "状语从句",
+          "span": "before you walk through the forest",
+          "explain_cn": "before 引导时间状语从句，从句用一般现在时表示将来",
+          "exam_tip": "主将从现：主句是祈使句或将来时，从句用一般现在时"
+        }
+      ]
+    }
+  ]
+}

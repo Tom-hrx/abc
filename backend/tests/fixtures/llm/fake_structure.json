@@ -1,0 +1,21 @@
+{
+  "genre": "argumentative",
+  "topic": "读英语文章要先看结构，而不是逐词查",
+  "difficulty": {
+    "level": "B1",
+    "exam": "中考",
+    "reason": "词汇不难，但抽象名词与从句嵌套较多，需要理解比喻用法"
+  },
+  "thesis": "读文章要先把握整体结构，只记一个词义容易读错整段",
+  "sections": [
+    {"paragraphs": [1], "role": "background", "summary_cn": "指出学生的常见误区：把读英语等同于查生词"},
+    {"paragraphs": [2], "role": "example", "summary_cn": "用 address 一词在不同句中的不同意思说明问题"},
+    {"paragraphs": [3], "role": "conclusion", "summary_cn": "给出方法：先问作者想证明什么，再进入细节"}
+  ],
+  "logic_flow": ["提出误区", "指出真正难点", "举例说明", "给出读法"],
+  "reading_tips": [
+    "第 1 段最后一句是全文主张，先抓住 it 指代什么",
+    "第 2 段的两个 In one sentence / In another 是并列对照，注意区分",
+    "第 3 段用比喻收尾，map 指的是文章结构"
+  ]
+}

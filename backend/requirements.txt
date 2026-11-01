@@ -1,0 +1,9 @@
+flask>=3.0
+flask-sqlalchemy>=3.1
+flask-migrate>=4.0
+sqlalchemy>=2.0
+pydantic>=2.6
+openai>=1.30
+tenacity>=8.2
+python-dotenv>=1.0
+pytest>=8.0

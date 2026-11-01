@@ -1,0 +1,33 @@
+{
+  "title": "Read the Map First",
+  "complete": true,
+  "paragraphs": [
+    {
+      "sentences": [
+        "Many students think that reading English means looking up every new word.",
+        "In fact, the harder problem is often the shape of the text.",
+        "If you cannot see how the writer builds an argument, every sentence feels equally important."
+      ]
+    },
+    {
+      "sentences": [
+        "Take the word address as an example.",
+        "In one sentence it may mean to deal with a problem.",
+        "In another it may mean a speech.",
+        "Students who remember only one meaning often misread a whole paragraph."
+      ]
+    },
+    {
+      "sentences": [
+        "A good reader always asks what the writer is trying to prove.",
+        "That question keeps you from drowning in details.",
+        "Read the map before you walk through the forest."
+      ]
+    }
+  ],
+  "stats": {
+    "sentence_count": 10,
+    "word_count": 112,
+    "language": "en"
+  }
+}
